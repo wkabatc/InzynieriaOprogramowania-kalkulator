@@ -1,4 +1,5 @@
 Autor: Wojciech Kabatc
 
-To jest repozytorium testowe z Inżynierii Oprogramowania,
-będą tutaj pierwszej próby dotyczące commitów i branchy.
+To jest repozytorium z kalkulatorem z Inżynierii Oprogramowania,
+znajdują się tutaj pierwszej próby dotyczące commitówi branchy a także
+funkcje tworzące kalkulator.
