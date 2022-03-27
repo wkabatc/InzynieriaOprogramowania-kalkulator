@@ -9,6 +9,10 @@ def dodaj(a,b):
     wynik = float(a) + float(b)
     return wynik
 
+def pomnoz(a,b):
+    wynik = float(a) * float(b)
+    return wynik
+
 pierwsza = input()
 druga = input()
 
